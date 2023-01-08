@@ -1,4 +1,4 @@
-# displej-varanje
+#Screen Saver
 
 
 Screen Saver is a simple Windows Forms application written in C#.
